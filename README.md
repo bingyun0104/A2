@@ -4,3 +4,4 @@
 121212
 A new Type
 11ss
+AABBCC
